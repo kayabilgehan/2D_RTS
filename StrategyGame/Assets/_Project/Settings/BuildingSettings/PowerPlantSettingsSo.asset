@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4885475eadc2eff47bc376ddb83496a6, type: 3}
+  m_Name: PowerPlantSettingsSo
+  m_EditorClassIdentifier: 
+  size: {x: 2, y: 3, z: 1}
+  prefab: {fileID: 4226300622660817395, guid: 3fa931201f5f5ac44adb6c4a4a0d57da, type: 3}
+  health: 50
+  buildingImage: {fileID: -1965038426, guid: 7f443d80bfc2e8c41a8980e6835a33fb, type: 3}
+  buildingName: Power Plant
+  powerGenerationPerSecond: 1

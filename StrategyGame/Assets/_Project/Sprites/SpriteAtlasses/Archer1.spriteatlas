@@ -1,0 +1,290 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Archer1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c3251e9ccc3076b4bb7cca37c478cf13, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e7900c20fc84b4d489b16374e3c5f83e, type: 3}
+  - {fileID: 21300000, guid: 6fa10440cc6318847ae397272580b4de, type: 3}
+  - {fileID: 21300000, guid: 0c25a650cd6c98b45b7a2e9045ba998a, type: 3}
+  - {fileID: 21300000, guid: 4143775059a4ac54aafa431657d2c8c4, type: 3}
+  - {fileID: 21300000, guid: 91a94850b8f2709489f4bb8f61401a6c, type: 3}
+  - {fileID: 21300000, guid: 1106f760d9a7bb14e8b328d24b4fc41c, type: 3}
+  - {fileID: 21300000, guid: 0bec58c0b20f56f48989c1bcaee75148, type: 3}
+  - {fileID: 21300000, guid: 80051ac073d416844a9a56b6de0b40f2, type: 3}
+  - {fileID: 21300000, guid: c3e0ace040b8b174d9a9509762d1453a, type: 3}
+  - {fileID: 21300000, guid: d4ad7ee047b0f1345835b3bebcea86fd, type: 3}
+  - {fileID: 21300000, guid: 882fefe0474749845bdd85520f6511d2, type: 3}
+  - {fileID: 21300000, guid: 0009b51111d74ee4ea966d46c7f22737, type: 3}
+  - {fileID: 21300000, guid: c9d1c52195a2b9f4db3750d4a2aab0fa, type: 3}
+  - {fileID: 21300000, guid: 10cb1d31694962d48ab4f27687f8985c, type: 3}
+  - {fileID: 21300000, guid: a7f4e5515fbb1d848bc060f0af8fdeb8, type: 3}
+  - {fileID: 21300000, guid: b2863d615f0b5e54c83058d39dcf10d6, type: 3}
+  - {fileID: 21300000, guid: 73e5b7812bef85142b955f6f7707ce8a, type: 3}
+  - {fileID: 21300000, guid: b3da0091836809046b5d531e0b08a6c7, type: 3}
+  - {fileID: 21300000, guid: 673b1ca112fc93549860220c65607500, type: 3}
+  - {fileID: 21300000, guid: 3af7a2b1b0587224cbd3c15fcd905ecd, type: 3}
+  - {fileID: 21300000, guid: 842ec4c12ffafa148952cb4875854154, type: 3}
+  - {fileID: 21300000, guid: 1e2bd20203046034aba4947e0a0097e3, type: 3}
+  - {fileID: 21300000, guid: 56bc6502efee7d64c94ed2fae37338e2, type: 3}
+  - {fileID: 21300000, guid: f1d11c0289602654a91b3e8d13d10952, type: 3}
+  - {fileID: 21300000, guid: a6c44962e3e2ddd49b483b054b2911e2, type: 3}
+  - {fileID: 21300000, guid: 0247a982b034e9d49ab68fa12ef77bc3, type: 3}
+  - {fileID: 21300000, guid: c14acbb2846bb2445a89c1ad6754696e, type: 3}
+  - {fileID: 21300000, guid: b5b8aeb2ef00c7f4f896a701cd2616e4, type: 3}
+  - {fileID: 21300000, guid: a57a1a331d9a8694b9c095af36371704, type: 3}
+  - {fileID: 21300000, guid: dc193443cab0b9148818baf69b6e041e, type: 3}
+  - {fileID: 21300000, guid: f5cfe253b3fb6dd4fb7da18ac0cda69f, type: 3}
+  - {fileID: 21300000, guid: 486ac3a33c2057c45b01a10ef79e5ed1, type: 3}
+  - {fileID: 21300000, guid: dc840354cb24ee94cae3d749e6b39598, type: 3}
+  - {fileID: 21300000, guid: dbb868a4594e5504d9e1d82509a6ce30, type: 3}
+  - {fileID: 21300000, guid: 6b4fb6d43b1d65c44af8ae943315836e, type: 3}
+  - {fileID: 21300000, guid: 4f775605813809f46ad36eda74b5c8d2, type: 3}
+  - {fileID: 21300000, guid: cde09225081cf1a448aed98bd42fa838, type: 3}
+  - {fileID: 21300000, guid: fc820135143d6d346968e29b1f149570, type: 3}
+  - {fileID: 21300000, guid: e9fbd5359d29526459432aa51c547206, type: 3}
+  - {fileID: 21300000, guid: 7caf5845530525b4ab59a1f9d3acfd94, type: 3}
+  - {fileID: 21300000, guid: 41121955f46992248bc9fc622ba12ac9, type: 3}
+  - {fileID: 21300000, guid: 2197795501d42f04589f6fdb32d990e1, type: 3}
+  - {fileID: 21300000, guid: 67f87065905e4374b96a1949f0d59a31, type: 3}
+  - {fileID: 21300000, guid: d048cf653adc7e04890aabc148ff2c5e, type: 3}
+  - {fileID: 21300000, guid: e97adf65be355f94e9aa3ceae8c15cbe, type: 3}
+  - {fileID: 21300000, guid: 93dc0a75bcbdde046aa559054af144cf, type: 3}
+  - {fileID: 21300000, guid: 6df12c856daaf5246ad72d74f94168a7, type: 3}
+  - {fileID: 21300000, guid: a1d7b595a8b59654babf768dc3f6c095, type: 3}
+  - {fileID: 21300000, guid: 84a80795df829b542a6b24734f5d8d97, type: 3}
+  - {fileID: 21300000, guid: d36c18a556558b643a193e30a552c064, type: 3}
+  - {fileID: 21300000, guid: b08f1836cdad0b94b871800e0e636c9f, type: 3}
+  - {fileID: 21300000, guid: 549be546ce572774494f2397543dd2fc, type: 3}
+  - {fileID: 21300000, guid: 79368f661e432ca4a9df7940930ac54e, type: 3}
+  - {fileID: 21300000, guid: 9b32e5a62ba085547a73d7c92e3f650e, type: 3}
+  - {fileID: 21300000, guid: 4f596b576dbe56c429cec8f1c3233d7c, type: 3}
+  - {fileID: 21300000, guid: 11b7ddb7ab4cd144a9f993c6609c0d4a, type: 3}
+  - {fileID: 21300000, guid: 051c7de7934db744cb8ccdfb925cb8ca, type: 3}
+  - {fileID: 21300000, guid: 28d4b0183c8745346896ff7926f44c01, type: 3}
+  - {fileID: 21300000, guid: eb0f7038165907a4d9916438720db009, type: 3}
+  - {fileID: 21300000, guid: 3494c73894b5c4f4eac50b0b6f5cf9cf, type: 3}
+  - {fileID: 21300000, guid: 0e56a07864056d44bb780e13eff6699f, type: 3}
+  - {fileID: 21300000, guid: 2f0665b8dca2b4e4ca234dc107d1e967, type: 3}
+  - {fileID: 21300000, guid: 84c719c827538044eabc6d67d350987d, type: 3}
+  - {fileID: 21300000, guid: 1b4d07e8497a86d4db25d5a089e5bf7f, type: 3}
+  - {fileID: 21300000, guid: 2b151519882aabd49a24e7f3a4c7e7e0, type: 3}
+  - {fileID: 21300000, guid: fb79b1496dbe9d745a959b87353fd3ad, type: 3}
+  - {fileID: 21300000, guid: 13f01d6957bc6fc4498ea74a7a20885c, type: 3}
+  - {fileID: 21300000, guid: 8f886ea9b7785724798d9f789cfe35aa, type: 3}
+  - {fileID: 21300000, guid: aadc72b92879a834b94603f632067320, type: 3}
+  - {fileID: 21300000, guid: f6fe8cc9ccabc044f9005bf91c0eb410, type: 3}
+  - {fileID: 21300000, guid: ab1603e9f48ebe14bb24840f9ea6bf14, type: 3}
+  - {fileID: 21300000, guid: ce04e01a1df7a8040ae2c1154faee52c, type: 3}
+  - {fileID: 21300000, guid: 4dbb463a15753e74388d69c14268c95a, type: 3}
+  - {fileID: 21300000, guid: 7408d94a597976c48b89b069650a453c, type: 3}
+  - {fileID: 21300000, guid: 58362c4a4f7fd7343aa867b4fd53373b, type: 3}
+  - {fileID: 21300000, guid: efc68c8a05f21ef4bbbe1bd1a30920d5, type: 3}
+  - {fileID: 21300000, guid: 7a1f95aa57e01ed4fa7c61d140ae9bd6, type: 3}
+  - {fileID: 21300000, guid: 746613ba6a1ca37438ff172ea986f39f, type: 3}
+  - {fileID: 21300000, guid: f9e56f0b7950bfb4ea5a8655bd68a2a8, type: 3}
+  - {fileID: 21300000, guid: b50be12be1080b8428d5498e98a050bf, type: 3}
+  - {fileID: 21300000, guid: 022ba03b8cbfec14c97f693233d9d00b, type: 3}
+  - {fileID: 21300000, guid: 5685d44b950e2f74db9a2c5dc52983b6, type: 3}
+  - {fileID: 21300000, guid: 6693294b2284f724e8e4f430552ce853, type: 3}
+  - {fileID: 21300000, guid: 3950836b93d7f3f4998a46c44bde7959, type: 3}
+  - {fileID: 21300000, guid: d526407bd6d8daf40a0092c5d9c32d25, type: 3}
+  - {fileID: 21300000, guid: 1a8c479bda250074ab4ff1dd03ef733e, type: 3}
+  - {fileID: 21300000, guid: 68bbf1abd08b0ef4584be210353353c1, type: 3}
+  - {fileID: 21300000, guid: 88a7ccfbfce71644dbe098f0d77ff933, type: 3}
+  - {fileID: 21300000, guid: 2d36902c4bc94a94686577d0993a31af, type: 3}
+  - {fileID: 21300000, guid: 5d81662c88505fd42b4cf3ebc9369de4, type: 3}
+  - {fileID: 21300000, guid: 265b764c96af9ea4386b878e2e86dccd, type: 3}
+  - {fileID: 21300000, guid: 56ffaf6c93ba0254eb7e179b74c6a4d0, type: 3}
+  - {fileID: 21300000, guid: 6dce9e7c655e735438099eefdb8bb6e3, type: 3}
+  - {fileID: 21300000, guid: 12cfb88c41222974d9edf6bada835b69, type: 3}
+  - {fileID: 21300000, guid: 46d6c3dca82b15e478b687fba5864511, type: 3}
+  - {fileID: 21300000, guid: f16941ec39293dd43aca10e584eaed45, type: 3}
+  - {fileID: 21300000, guid: 014074eca7b51d84a8c6bee2b6399681, type: 3}
+  - {fileID: 21300000, guid: 9edc5b4d2d1aee74498c7bbd83c4ddb0, type: 3}
+  - {fileID: 21300000, guid: 90ebc67d318bbf44898852a5c2e3aa61, type: 3}
+  - {fileID: 21300000, guid: f7182e8dc65070545804d03c144b1975, type: 3}
+  - {fileID: 21300000, guid: a49c7b9d66cc4a24386e403958b40a6c, type: 3}
+  - {fileID: 21300000, guid: 120a79cd33929c440939ef16c1476ce4, type: 3}
+  - {fileID: 21300000, guid: b1c55dcde62deac43a5d6f9d96f8330f, type: 3}
+  - {fileID: 21300000, guid: f4837fcdf6e445d4d8f1bfdd2d88072f, type: 3}
+  - {fileID: 21300000, guid: 5671a5ddef79b064e8ec0a62b10a1105, type: 3}
+  - {fileID: 21300000, guid: 84ec664e127376241a7be048f2b52330, type: 3}
+  - {fileID: 21300000, guid: a373d45e91ef75744a04a217721240b0, type: 3}
+  - {fileID: 21300000, guid: 09d0896eaf43eb0498fa755d2b13c441, type: 3}
+  - {fileID: 21300000, guid: 0b59018e8d6152741867c04e9445250c, type: 3}
+  - {fileID: 21300000, guid: 1ec962bef5f99f548a69c83cd5749f60, type: 3}
+  - {fileID: 21300000, guid: 0b2961ee4f40f8f45902b118e76b3dce, type: 3}
+  - {fileID: 21300000, guid: 87c565eee4b5fa541879ce2c4fa91f7c, type: 3}
+  - {fileID: 21300000, guid: f90ada2fae3ad97468bd64e7b34b9856, type: 3}
+  - {fileID: 21300000, guid: 2db6d73f9cf5fb94da4ef3c2c80a2289, type: 3}
+  - {fileID: 21300000, guid: 265bc34ffc4648a4e8bc1ab6c3d73799, type: 3}
+  - {fileID: 21300000, guid: b635845f99335aa42afeff43b3dcf668, type: 3}
+  - {fileID: 21300000, guid: 6656895f90f6bc54091824771bcf6cbb, type: 3}
+  - {fileID: 21300000, guid: eded4c5fdfc6bf6438985c0decc326d8, type: 3}
+  - {fileID: 21300000, guid: d7775baff1c09dd48b821abffba231fc, type: 3}
+  - {fileID: 21300000, guid: 530e7bdfaf026a3448499bf2603086f2, type: 3}
+  - {fileID: 21300000, guid: bfe1cbdfe148fa64ea2feddcdc1aa45b, type: 3}
+  - {fileID: 21300000, guid: e73024effb4be704f9fc77e8e29a9c82, type: 3}
+  - {fileID: 21300000, guid: aee015ff47314854abfd3b406c2e3f35, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FantasyArcher_01_Death_0261
+  - FantasyArcher_01_walk_0012
+  - FantasyArcher_01_Death_0254
+  - FantasyArcher_01_Jump_0271
+  - FantasyArcher_01_Idle2_0154
+  - FantasyArcher_01_Attack2_0236
+  - FantasyArcher_01_Jump_0272
+  - FantasyArcher_01_Hit_0246
+  - FantasyArcher_01_Attack1_0210
+  - FantasyArcher_01_Attack1_0216
+  - FantasyArcher_01_Attack2_0231
+  - FantasyArcher_01_Idle2_0169
+  - FantasyArcher_01_walk_0011
+  - FantasyArcher_01_Death_0257
+  - FantasyArcher_01_Attack1_0223
+  - FantasyArcher_01_idle_0138
+  - FantasyArcher_01_Idle2_0145
+  - FantasyArcher_01_Jump_0275
+  - FantasyArcher_01_Idle2_0160
+  - FantasyArcher_01_Death_0256
+  - FantasyArcher_01_idle_0133
+  - FantasyArcher_01_Jump_0279
+  - FantasyArcher_01_Death_0253
+  - FantasyArcher_01_Idle2_0161
+  - FantasyArcher_01_Attack2_0238
+  - FantasyArcher_01_idle_0135
+  - FantasyArcher_01_Idle2_0170
+  - FantasyArcher_01_walk_0004
+  - FantasyArcher_01_idle_0126
+  - FantasyArcher_01_Idle2_0168
+  - FantasyArcher_01_Attack2_0242
+  - FantasyArcher_01_Attack2_0240
+  - FantasyArcher_01_Idle2_0150
+  - FantasyArcher_01_Death_0260
+  - FantasyArcher_01_Death_0255
+  - FantasyArcher_01_Idle2_0152
+  - FantasyArcher_01_walk_0000
+  - FantasyArcher_01_Idle2_0162
+  - FantasyArcher_01_Idle2_0143
+  - FantasyArcher_01_Attack1_0224
+  - FantasyArcher_01_Death_0265
+  - FantasyArcher_01_Idle2_0155
+  - FantasyArcher_01_Death_0258
+  - FantasyArcher_01_Idle2_0149
+  - FantasyArcher_01_walk_0005
+  - FantasyArcher_01_Attack1_0221
+  - FantasyArcher_01_Attack1_0219
+  - FantasyArcher_01_Idle2_0144
+  - FantasyArcher_01_idle_0125
+  - FantasyArcher_01_Idle2_0167
+  - FantasyArcher_01_walk_0003
+  - FantasyArcher_01_Jump_0278
+  - FantasyArcher_01_Attack1_0211
+  - FantasyArcher_01_Attack1_0215
+  - FantasyArcher_01_Attack2_0235
+  - FantasyArcher_01_walk_0002
+  - FantasyArcher_01_Death_0262
+  - FantasyArcher_01_Jump_0280
+  - FantasyArcher_01_Idle2_0164
+  - FantasyArcher_01_idle_0127
+  - FantasyArcher_01_Jump_0282
+  - FantasyArcher_01_Attack2_0234
+  - FantasyArcher_01_walk_0006
+  - FantasyArcher_01_Idle2_0163
+  - FantasyArcher_01_Attack2_0241
+  - FantasyArcher_01_Hit_0245
+  - FantasyArcher_01_Attack2_0233
+  - FantasyArcher_01_Attack1_0220
+  - FantasyArcher_01_Idle2_0172
+  - FantasyArcher_01_Attack1_0217
+  - FantasyArcher_01_walk_0008
+  - FantasyArcher_01_Attack2_0239
+  - FantasyArcher_01_Attack2_0228
+  - FantasyArcher_01_idle_0129
+  - FantasyArcher_01_Attack1_0222
+  - FantasyArcher_01_idle_0130
+  - FantasyArcher_01_Attack1_0212
+  - FantasyArcher_01_Idle2_0158
+  - FantasyArcher_01_Death_0266
+  - FantasyArcher_01_Jump_0281
+  - FantasyArcher_01_Idle2_0147
+  - FantasyArcher_01_Attack1_0213
+  - FantasyArcher_01_walk_0001
+  - FantasyArcher_01_Idle2_0166
+  - FantasyArcher_01_walk_0010
+  - FantasyArcher_01_Idle2_0153
+  - FantasyArcher_01_idle_0132
+  - FantasyArcher_01_Attack2_0232
+  - FantasyArcher_01_Death_0264
+  - FantasyArcher_01_Idle2_0165
+  - FantasyArcher_01_idle_0134
+  - FantasyArcher_01_Jump_0274
+  - FantasyArcher_01_Idle2_0146
+  - FantasyArcher_01_Death_0263
+  - FantasyArcher_01_Jump_0270
+  - FantasyArcher_01_Idle2_0156
+  - FantasyArcher_01_Idle2_0159
+  - FantasyArcher_01_Attack1_0214
+  - FantasyArcher_01_idle_0136
+  - FantasyArcher_01_Idle2_0151
+  - FantasyArcher_01_Jump_0273
+  - FantasyArcher_01_Death_0267
+  - FantasyArcher_01_Attack1_0218
+  - FantasyArcher_01_idle_0128
+  - FantasyArcher_01_Idle2_0148
+  - FantasyArcher_01_Jump_0277
+  - FantasyArcher_01_Jump_0276
+  - FantasyArcher_01_Idle2_0157
+  - FantasyArcher_01_idle_0139
+  - FantasyArcher_01_walk_0007
+  - FantasyArcher_01_walk_0014
+  - FantasyArcher_01_Hit_0248
+  - FantasyArcher_01_Attack2_0229
+  - FantasyArcher_01_Death_0259
+  - FantasyArcher_01_walk_0009
+  - FantasyArcher_01_Hit_0247
+  - FantasyArcher_01_Idle2_0171
+  - FantasyArcher_01_walk_0013
+  - FantasyArcher_01_idle_0137
+  - FantasyArcher_01_Hit_0249
+  - FantasyArcher_01_idle_0131
+  - FantasyArcher_01_Attack2_0230
+  - FantasyArcher_01_Attack2_0237
+  m_RenderDataMap: {}
+  m_Tag: Archer1
+  m_IsVariant: 0

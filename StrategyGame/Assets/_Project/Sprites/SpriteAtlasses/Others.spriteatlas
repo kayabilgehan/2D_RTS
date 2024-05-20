@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Others
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a2d3e64608e7c614397e7d0a4231aed4, type: 3}
+    - {fileID: 102900000, guid: 121e0f4640e858d42a8fd8044881ca5d, type: 3}
+    - {fileID: 102900000, guid: 3320b3554cfa2714f80534a46969f2ba, type: 3}
+    - {fileID: 102900000, guid: 80762cc2eb3da2140898fca38a3d9eea, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1965038426, guid: 7f443d80bfc2e8c41a8980e6835a33fb, type: 3}
+  - {fileID: 539200711, guid: 7f443d80bfc2e8c41a8980e6835a33fb, type: 3}
+  - {fileID: 611154387, guid: 7f443d80bfc2e8c41a8980e6835a33fb, type: 3}
+  - {fileID: 1295830720, guid: 7f443d80bfc2e8c41a8980e6835a33fb, type: 3}
+  - {fileID: 21300000, guid: 8798995159596f84586832ddd4bd8f37, type: 3}
+  - {fileID: 21300000, guid: 34091602a001dbf4c934cacff2295773, type: 3}
+  - {fileID: 21300000, guid: 21f4a484e04cdd64b82dc241baab576b, type: 3}
+  - {fileID: 21300000, guid: eae4f5c507ae9c743bc6f21adeb466dc, type: 3}
+  - {fileID: 21300000, guid: 705512269b2af35498bc7e6c7e9de9c0, type: 3}
+  - {fileID: 21300000, guid: 21bdd4f6d8683494089bfede3b1bb074, type: 3}
+  - {fileID: 21300000, guid: 9fe837fc250d19a4da6c8b487c8b625d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tower1_0
+  - Tower1_1
+  - Tower1_5
+  - Tower1_11
+  - emptyRect
+  - BuildingSelectionFrame
+  - Arrow
+  - Circle_Outlined
+  - White_1x1
+  - Shadow
+  - Barrack1
+  m_RenderDataMap: {}
+  m_Tag: Others
+  m_IsVariant: 0
