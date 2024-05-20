@@ -1,3 +1,5 @@
+**This is a 2D Unity RTS Game Template**
+
 There is only 1 team in the game. 
 
 For this reason, you can destroy the buildings you have built with your own soldiers. 
